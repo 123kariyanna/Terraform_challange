@@ -31,3 +31,4 @@ terraform apply -auto-approve
 ✅ Configures security groups to restrict access appropriately.
 
 ✅ Outputs the Web Server's Public IP and RDS Endpoint.
+
